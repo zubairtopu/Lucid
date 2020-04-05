@@ -1,0 +1,716 @@
+/* for extra larg device .col-xl */
+@media(min-width:1912px){
+    /* header section start */
+    header {
+
+        height: 86vh;
+    }
+}
+@media(min-width:1837px){
+    /* header section start */
+    header {
+        height: 77.5vh;
+    }
+    .contact {
+        padding-bottom: 353px;
+    }
+    form {
+        transform: translate(-10px, 261px);
+    }
+}
+@media(min-width:1440px) and (max-width:1836.98px) {
+    /* header section start */
+    header {
+        height: 88.5vh;
+    }
+    .mobile img {
+        position: absolute;
+        right: 7%;
+        bottom: 0;
+    }
+    .carefull_img img {
+        margin-top: 26px;
+    }
+    /* header section end */
+    /* pricing section start */
+    .pricing-plans h2::before {
+        bottom: -41%;
+    }
+    .pricing-plans span {
+        background-color: #4a4749;
+    }
+    .plan-header span {
+        background-color: white;
+    }
+    .pricing-plans h2::before {
+        bottom: -38%;
+    }
+    .contact {
+        padding-bottom: 353px;
+    }
+    form {
+        transform: translate(-10px, 261px);
+    }
+    /* pricing section end */
+}
+/* for laptop-1024px .col-lg */
+@media(min-width:1200px) and (max-width:1439.98px) {
+    /* header section start */
+    header {
+        background-image: url("../images/banner_bg.png");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 88vh;
+    }
+    .carefull_img img {
+        margin-top: 24px;
+    }
+    .mobile img {
+        position: absolute;
+        right: 5%;
+        bottom: 0;
+    }
+    /* header section end */
+    /* list section start */
+    .list {
+        margin-bottom: 4%;
+        padding-bottom: 5%;
+        margin-top: 6%;
+    }
+    /* list section end */
+    /* every-device section start */
+
+    /* every-device section end */
+    .contact {
+        background-color: #EDEDED;
+        padding-top: 3%;
+        position: relative;
+        padding-bottom: 0;
+    }
+    .contact {
+        padding-bottom: 353px;
+    }
+    form {
+        transform: translate(-10px, 261px);
+    }
+}
+@media(min-width:1024px) and (max-width:1199.98px) {
+    /* header section start */
+    header {
+        height: 86vh;
+    }
+    .carefull_img img {
+        margin-top: 6%;
+    }
+    .mobile img {
+        position: absolute;
+        right: 6%;
+        bottom: 0;
+    }
+    
+    
+    /* header section end */
+    /* list section start */
+    .list {
+        margin-bottom: 10%;
+        padding-bottom: 5%;
+        margin-top: 6%;
+    }
+    .pricing-plans h2::before {
+        left: 44%;
+        top: 47px;
+    }
+    .pricing-plans span {
+        background-color: #322f2f;
+        bottom: -5%;
+    }
+    /* list section end    */
+    /* every-device section start */
+
+    /* every-device section end */
+    /* pricing section start */
+    .amazing_content h2::before {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        opacity: 1;
+        left: 260px;
+        top: 47px;
+        height: 5px;
+        width: 11%;
+        background-color: #008ed6;
+        transition: 0.4s ease-in-out;
+    }
+    /* pricing section end */
+    /* pan section start */
+    .plan-header span {
+        background-color: white;
+        bottom: -6px;
+    }
+    /* map section */
+    .contact {
+        padding-bottom: 353px;
+    }
+    form {
+        transform: translate(-10px, 261px);
+    }
+
+}
+/* for tablet-768px .col-md */
+@media(min-width:992px) and (max-width:1023.98px) {
+    /* header section start */
+    header {
+        height: 85.8vh;
+    }
+    /* header section end */
+    /* list section start */
+    .list {
+        margin-bottom: 10%;
+        padding-bottom: 5%;
+        margin-top: 6%;
+    }
+    .mobile img {
+        right: 11%;
+    }
+    .like_content h4 {
+        font-size: 15pt;
+    }
+    .btn-custom-1 {
+        padding: 11px 16px;
+    }
+    /* list section end */
+    /* every-device section start */
+
+    /* every-device section end */
+    /* map section  */
+    .contact {
+        padding-bottom: 33%;
+    }
+    form {
+        transform: translate(-10px, 268px);
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px) {
+    /* header section start */
+    header {
+        height: 69vh;
+    }
+    .navbar {
+        height: auto!important;
+        display: block;
+    }
+    .menu .menu_item {
+        margin-right: 4%;
+    }
+    .navbar-nav {
+        display: -webkit-inline-box;
+    }
+    .custom_height_1 {
+        height: 0;
+    }
+    .carefull_content h1 {
+        font-size: 2rem;
+    }
+    .menu_item span {
+        width: 3px;
+    }
+    .mobile img {
+        right: 11%;
+        width: 38%;
+    }
+    .carefull_content p {
+        margin-bottom: 29px;
+    }
+    .carefull_img img {
+        width: 100%;
+        margin-top: 35%;
+    }
+    .btn-custom-1 {
+        margin-right: 9px;
+        font-size: 14px;
+    }
+    /* header section end */
+    /* list section start */
+    .list {
+        margin-bottom: 7%;
+        padding-bottom: 5%;
+        margin-top: 6%;
+    }
+    .amazing_content h2::before {
+        width: 11%;
+    }
+    /* list section end */
+    /* every-device section start */
+
+    /* every-device section end */
+    /* paricing section start */
+    .pricing-plans span {
+        background-color: #312d2e;
+        bottom: -7%;
+    }
+    .like_content {
+        margin-top: 1%;
+        text-align: center;
+    }
+    /* pricing secton end */
+    /* plan section start */
+    .plan-header span {
+        background-color: white;
+    }
+    .card_price h1 {
+        font-size: 22pt;
+    }
+    .card_price h1 {
+        font-weight: 600;
+        font-size: 3rem;
+        display: inline;
+        font-size: 22pt;
+    }
+    .card p {
+        color: #b4b4b4;
+        padding: 7% 2%;
+    }
+    .btn-custom-3 {
+        font-size: 11pt;
+    }
+    /* plan section end */
+    .contact {
+    background-color: #EDEDED;
+    padding-top: 3%;
+    position: relative;
+    padding-bottom: 42%;
+}
+form {
+    transform: translate(-10px, 254px);
+}
+}
+/* for mobile l-425px .col-sm */
+@media(min-width:576px) and (max-width:767.98px) {
+    /* header section start */
+    .custom_height_1 {
+        height: 26rem;
+    }
+    .navbar {
+        height: auto;
+        display: block;
+        /* padding-right: 0!important; */
+    }
+    .menu .menu_item {
+        margin-right: 4%;
+    }
+    .navbar-nav {
+        display: -webkit-inline-box;
+    }
+    .carefull_content {
+        padding-right: 6%;
+        margin-top: 2%;
+    }
+    .mobile img {
+        display: none;
+    }
+
+    /* header section end */
+    /* list section start */
+    .list {
+        margin-bottom: 10%;
+        padding-bottom: 5%;
+        margin-top: 6%;
+    }
+    .amazing_content h2::before {
+        left: 44%;
+    }
+    /* list section end */
+    /* every-device section start */
+    .every_content {
+        text-align: left;
+    }
+    .contact-header span {
+        left: 14rem;
+        background-color: #ededed;
+    }
+    .contact-header h2::before {
+        left: 0%;
+        opacity: 0;
+        width: 12%;
+    }
+    
+    
+    .contact:hover h2::before {
+        left: 44%;
+        opacity: 1;
+        transition: .6s;
+    }
+/* Zubairtopu */
+
+
+    .icon-pack li {
+        display: -webkit-inline-box;
+        margin-right: 8px;
+    }
+    /* every-device section end */
+
+    /* pricing section start */
+    .custom-margin-3 {
+        margin-bottom: 13%;
+    }
+    .pricing-plans span {
+        background-color: #322f2f;
+        bottom: -7%;
+    }
+    .custom-display-2 {
+        display: none;
+    }
+    .plan-header span {
+        background-color: white;
+    }
+    .pricing-plans h2::before {
+        bottom: -42%;
+    }
+    .plan-header h2::before {
+        bottom: -41%;
+    }
+    /* pricing section end */
+/* like section start */
+.like_button {
+    text-align: center;
+}
+.contact {
+    padding-bottom: 56%;
+}
+.contact-f {
+
+width: 89%;
+
+bottom: -6%;
+}
+form {
+    transform: translate(6px, 300px);
+}
+/* like section end */
+
+}
+
+/* for mobile m-375px .col- */
+@media(min-width:425px) and (max-width:575.98px) {
+    /* header section start */
+    .custom_height_1 {
+        height: 23rem;
+    }
+    .navbar {
+        height: auto;
+        display: block;
+    }
+    .carefull_content {
+        padding-right: 0;
+        margin-left: 14px;
+        margin-top: 25px;
+    }
+    .menu .menu_item {
+        margin-right: 1%;
+    }
+    .navbar-nav {
+        display: -webkit-inline-box;
+    }
+    .carefull_content h1 {
+        color: #ffffff;
+        font-weight: 600;
+        font-size: 2rem;
+        text-transform: none;
+        margin: 19px 0;
+        line-height: 1;
+    }
+    .carefull_content p {
+        color: #818183;
+        margin-bottom: 31px;
+        text-transform: initial;
+        padding-right: 30px;
+    }
+    .btn-custom-1 {
+        background-color: transparent;
+        border: 1px solid #454449;
+        text-transform: uppercase;
+        padding: 8px 15px;
+        margin-right: 20px;
+        font-weight: 600;
+        transition: 0.9s;
+    }
+
+    /* header section end */
+    /* list section start */
+    .list {
+        margin-bottom: 10%;
+        padding-bottom: 5%;
+        margin-top: 6%;
+    }
+    .plan-header h2 {
+        color: black;
+        font-size: 30px;
+    }
+
+    .custom-margin-1 {
+        margin-top: 15%;
+    }
+    .list_head h2 {
+        font-size: 27px;
+    }
+    .list_head h2::before {
+        width: 15%;
+    }
+    .list_head span {
+        bottom: -12px;
+    }
+    /* jumbotron section start */
+    .like_content h3 {
+
+        font-size: 24px;
+    }
+    .contact-icon p {
+        padding: 0 6px;
+    }
+    .like_content h4 {
+        font-size: 19px;
+    }
+    .like_button {
+        text-align: center;
+    }
+    /* jumbotron section end */
+    /* list section end */
+    /* every-device section start */
+    .icon-pack li {
+        display: -webkit-inline-box;
+        margin-right: 8px;
+    }
+
+    /* every-device section end */
+    /* pricing section start */
+    .custom-margin-3 {
+        margin-bottom: 13%;
+    }
+    /* .d-custom-1 {
+        display: none;
+    } */
+    .pricing-plans h2::before {
+        left: 0;
+        width: 11%;
+    }
+    .plan:hover h2::before {
+    opacity: 1;
+    left: 37%;
+    }
+    .pricing-plans span {
+        bottom: -7%;
+        background-color: #322d2e;
+    }
+    .plan-header h2::before {
+        width: 26%!important;
+    }
+    /* pricing section end */
+    /* plan-card section start */
+    .card {
+        margin-bottom: 11%!important;
+        /* width: 77%; */
+        margin: auto;
+    }
+    .card_price h2 {
+        display: inline;
+        vertical-align: super;
+        font-weight: 600;
+        font-size: 24px;
+    }
+    .card_price h1 {
+        font-size: 2rem;
+    }
+    .card_price {
+        padding: 4% 0;
+    }
+    .card p {
+        padding: 5% 2%;
+    }
+    .contact:hover h2::before {
+        left: 44%;
+        opacity: 1;
+        transition: .6s;
+    }
+    .contact-header span {
+        left: 15rem;
+        background-color: #ededed;
+    }
+    .contact:hover h2::before {
+        left: 44%;
+        opacity: 1;
+        transition: .6s;
+    }
+    .contact-header h2::before {
+        width: 12%;
+    }
+    .btn-custom-3 {
+        padding: 4%;
+
+        /* plan-card section end */
+    }
+    form {
+        transform: translate(3px, 250px);
+    }
+    .contact {
+        padding-bottom: 66%;
+    }
+    .plan-header span {
+        background-color: white;
+        bottom: -7%;
+    }
+    footer {
+        background-color: #15141A;
+        padding-top: 3%;
+    }
+}
+    /* for mobile m-375px .col- */
+    @media(min-width:320px) and (max-width:424.98px) {
+        /* header section start */
+
+        .custom_height_1 {
+            height: 24rem;
+        }
+        .navbar {
+            height: 106px!important;
+            display: block;
+        }
+        .carefull_content {
+            padding-right: 0;
+            margin-left: 14px;
+        }
+        .menu .menu_item {
+            margin-right: 2%;
+            /* margin: auto; */
+            font-size: small;
+            margin-left: 0px!important;
+        }
+        .navbar-nav {
+            display: -webkit-inline-box;
+        }
+        .carefull_content h1 {
+            font-size: 26px;
+        }
+            .plan-header h2::before {
+        width: 23%!important;
+        }
+            .carefull_content p {
+            color: #818183;
+            margin-bottom: 21px;
+            text-transform: initial;
+            padding-right: 5px;
+        }
+        .btn-custom-1 {
+            padding: 6px 5px;
+            margin-right: 7px;
+            margin-bottom: 20px;
+        }
+        /* header section end */
+        /* list section start */
+        .list {
+            margin-bottom: 10%;
+            padding-bottom: 5%;
+            margin-top: 6%;
+        }
+        .custom-margin-1 {
+            margin-top: 15%;
+        }
+        .list_head h2 {
+            font-size: 27px;
+        }
+        .list_head h2::before {
+            left: 40%;
+            width: 17%;
+        }
+        .list_head span {
+            bottom: -13px;
+            background-color: white;
+        }
+        /* list section end */
+
+        /* every-device section start */
+        .every_content h2 {
+            font-size: 26px;
+        }
+        .every_content span {
+            left: 12%;
+        }
+        .every_content p {
+
+            margin-top: 46px;
+        }
+        /* every-device section end */
+        /* pricing section start */
+        .custom-margin-3 {
+            margin-bottom: 13%;
+        }
+        .d-custom-1 {
+            display: none;
+        }
+        .pricing-plans span {
+            bottom: -8%;
+            left: 47%;
+            background-color: #2b2728;
+        }
+        .pricing-plans h2::before {
+            left: 40%;
+            width: 15%;
+        }
+        
+        /* pricing section end */
+        /* plan-card section start */
+        .custom-margin-3 {
+            margin-bottom: 13%;
+        }
+        .card {
+            margin-bottom: 11%;
+        }
+        .plan-header span {
+            background-color: white;
+            bottom: -7px;
+        }
+        .card_price h2 {
+            display: inline;
+            vertical-align: super;
+            font-weight: 600;
+            font-size: 24px;
+        }
+        .card_price h1 {
+            font-size: 2rem;
+        }
+        .card_price {
+            padding: 4% 0;
+        }
+        .card p {
+            padding: 7% 9%;
+        }
+        .btn-custom-3 {
+            padding: 4%;
+        }
+       
+     /* plan-card section end */
+        /* contact section start */
+     .contact {
+        padding-top: 10%;
+        padding-bottom: 148%;
+    }
+    .contact-header span {
+        left: 48%!important;
+    }
+    /* contact form start */
+    .submitt input {
+        padding: 8px 5px;
+        font-size: 14px;
+    }
+    
+    /* contact section end */
+    
+    /* footer section start */
+    footer {
+        background-color: #15141A;
+        padding-top: 3%;
+    }
+    }
+
+
